@@ -15,12 +15,12 @@ I am a **Senior Computer Science student** at **Wayne State University** with a 
     <img src="https://github.com/user-attachments/assets/29bccfb8-f0ad-4c30-8bb5-4670417c27f3" alt="JavaScript" width="40" height="40">
   
 - **Web Technologies:** 
-    <img src="https://github.com/user-attachments/assets/6e298473-375e-4f9f-97d6-48056a1cfad8" alt="Node.js" width="40" height="40"> 
-    <img src="https://github.com/user-attachments/assets/299db6d9-125f-46f2-9217-6454c5be9eef" alt="Express.js" width="40" height="40"> 
-    <img src="https://github.com/user-attachments/assets/44cc6645-ec79-4b87-8602-dd33101cbb4d" alt="React" width="40" height="40"> 
-    <img src="https://github.com/user-attachments/assets/db6177ab-35d9-4798-8998-731588eb0789" alt="Bootstrap" width="40" height="40"> 
-    <img src="https://github.com/user-attachments/assets/d4cd2af4-a5cb-4552-941f-77cdd24f4707" alt="HTML" width="40" height="40"> 
-    <img src="https://github.com/user-attachments/assets/dfe862ce-e44b-4035-aafa-5693f811ea05" alt="CSS" width="40" height="40">
+    <img src="https://github.com/user-attachments/assets/6e298473-375e-4f9f-97d6-48056a1cfad8" alt="HTML" width="40" height="40"> 
+    <img src="https://github.com/user-attachments/assets/299db6d9-125f-46f2-9217-6454c5be9eef" alt="CSS" width="40" height="40"> 
+    <img src="https://github.com/user-attachments/assets/44cc6645-ec79-4b87-8602-dd33101cbb4d" alt="Node.js" width="40" height="40"> 
+    <img src="https://github.com/user-attachments/assets/dd8de005-cb9b-4abc-ad83-baf6297c7085" alt="Express.js" width="60" height="40"> 
+    <img src="https://github.com/user-attachments/assets/d4cd2af4-a5cb-4552-941f-77cdd24f4707" alt="React" width="40" height="40"> 
+    <img src="https://github.com/user-attachments/assets/dfe862ce-e44b-4035-aafa-5693f811ea05" alt="Bootstrap" width="40" height="40">
 
 - **Database Management:** 
     <img src="https://github.com/user-attachments/assets/bc0407b9-1336-4926-ac77-b7f42649c2ac" alt="MySQL" width="40" height="40">
