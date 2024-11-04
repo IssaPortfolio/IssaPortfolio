@@ -3,9 +3,24 @@
 I am a **Senior Computer Science student** at **Wayne State University** with a strong foundation in software development. I am passionate about building scalable solutions and am actively seeking opportunities to contribute as a Software Developer. My experience spans various programming languages and frameworks, and I enjoy collaborating on innovative projects.
 
 ### Programming Languages & Frameworks
-- **Languages:** ![image](https://github.com/user-attachments/assets/d163f9cd-58be-41c4-b34c-f558ddd62992), ![image](https://github.com/user-attachments/assets/2422b4bd-d4a9-4c56-b92f-ebcda4a9da8b), ![image](https://github.com/user-attachments/assets/4692f59b-4186-4bcc-8a6f-0ac5c181b844), ![image](https://github.com/user-attachments/assets/84a56a0f-db43-4734-9447-d3f8dc76cf59), ![image](https://github.com/user-attachments/assets/29bccfb8-f0ad-4c30-8bb5-4670417c27f3)
-- **Web Technologies:** ![image](https://github.com/user-attachments/assets/6e298473-375e-4f9f-97d6-48056a1cfad8), ![image](https://github.com/user-attachments/assets/299db6d9-125f-46f2-9217-6454c5be9eef), ![image](https://github.com/user-attachments/assets/44cc6645-ec79-4b87-8602-dd33101cbb4d), ![image](https://github.com/user-attachments/assets/db6177ab-35d9-4798-8998-731588eb0789), ![image](https://github.com/user-attachments/assets/d4cd2af4-a5cb-4552-941f-77cdd24f4707), ![image](https://github.com/user-attachments/assets/dfe862ce-e44b-4035-aafa-5693f811ea05)
-- **Database Management:** ![image](https://github.com/user-attachments/assets/bc0407b9-1336-4926-ac77-b7f42649c2ac)
+- **Languages:** 
+    <img src="https://github.com/user-attachments/assets/d163f9cd-58be-41c4-b34c-f558ddd62992" alt="C++" width="20" height="20"> 
+    <img src="https://github.com/user-attachments/assets/2422b4bd-d4a9-4c56-b92f-ebcda4a9da8b" alt="C" width="20" height="20"> 
+    <img src="https://github.com/user-attachments/assets/4692f59b-4186-4bcc-8a6f-0ac5c181b844" alt="Java" width="20" height="20"> 
+    <img src="https://github.com/user-attachments/assets/84a56a0f-db43-4734-9447-d3f8dc76cf59" alt="Python" width="20" height="20"> 
+    <img src="https://github.com/user-attachments/assets/29bccfb8-f0ad-4c30-8bb5-4670417c27f3" alt="JavaScript" width="20" height="20">
+  
+- **Web Technologies:** 
+    <img src="https://github.com/user-attachments/assets/6e298473-375e-4f9f-97d6-48056a1cfad8" alt="Node.js" width="20" height="20"> 
+    <img src="https://github.com/user-attachments/assets/299db6d9-125f-46f2-9217-6454c5be9eef" alt="Express.js" width="20" height="20"> 
+    <img src="https://github.com/user-attachments/assets/44cc6645-ec79-4b87-8602-dd33101cbb4d" alt="React" width="20" height="20"> 
+    <img src="https://github.com/user-attachments/assets/db6177ab-35d9-4798-8998-731588eb0789" alt="Bootstrap" width="20" height="20"> 
+    <img src="https://github.com/user-attachments/assets/d4cd2af4-a5cb-4552-941f-77cdd24f4707" alt="HTML" width="20" height="20"> 
+    <img src="https://github.com/user-attachments/assets/dfe862ce-e44b-4035-aafa-5693f811ea05" alt="CSS" width="20" height="20">
+
+- **Database Management:** 
+    <img src="https://github.com/user-attachments/assets/bc0407b9-1336-4926-ac77-b7f42649c2ac" alt="MySQL" width="20" height="20">
+
 
 
 ### IDE's & OS
