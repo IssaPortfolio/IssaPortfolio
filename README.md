@@ -25,7 +25,7 @@ I am a **Senior Computer Science student** at **Wayne State University** with a 
 - **Database Management:** 
     <img src="https://github.com/user-attachments/assets/bc0407b9-1336-4926-ac77-b7f42649c2ac" alt="MySQL" width="40" height="40">
 
----
+
 
 ### IDEs & Operating Systems
 - **IDEs:** 
