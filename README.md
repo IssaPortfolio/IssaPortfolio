@@ -1,4 +1,4 @@
-# Hi there! I'm Issa, a Computer Science Senior 👋
+# Hi there! I'm Issa, a Computer Science Senior student 👋
 
 I am a **Senior Computer Science student** at **Wayne State University** with a strong foundation in software development. I am passionate about building scalable solutions and actively seeking opportunities to contribute as a Software Developer. My experience spans various programming languages and frameworks, and I enjoy collaborating on innovative projects.
 
