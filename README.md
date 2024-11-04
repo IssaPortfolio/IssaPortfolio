@@ -38,7 +38,7 @@ I am a **Senior Computer Science student** at **Wayne State University** with a 
 
 - **Operating Systems:** 
     <img src="https://github.com/user-attachments/assets/1e789b72-6475-40fe-8f77-006acf789668" alt="Windows" width="40" height="40"> 
-    <img src="https://github.com/user-attachments/assets/a87f6719-1b20-4a08-8ae3-b591080be5cb" alt="macOS" width="40" height="40"> 
+    <img src="https://github.com/user-attachments/assets/61e989ec-572f-444c-9f76-ed4586954b58" alt="macOS" width="40" height="40"> 
     <img src="https://github.com/user-attachments/assets/7f303159-665b-4ff9-972b-6bdf6ea2e667" alt="Linux" width="40" height="40">
 
 ---
