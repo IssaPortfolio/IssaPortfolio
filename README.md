@@ -34,7 +34,7 @@ I am a **Senior Computer Science student** at **Wayne State University** with a 
     <img src="https://github.com/user-attachments/assets/6ff1d556-4274-4b6b-9409-c6330a629456" alt="Xcode" width="40" height="40"> 
     <img src="https://github.com/user-attachments/assets/d6833570-0960-473d-b9ce-cd0848640dcc" alt="MySQL Workbench" width="40" height="40"> 
     <img src="https://github.com/user-attachments/assets/5870a9f3-332d-404b-bbad-6da4f0bba575" alt="Eclipse" width="40" height="40"> 
-    <img src="https://github.com/user-attachments/assets/70669454-dc3a-4345-8833-c8e0cba5980e" alt="Android Studio" width="40" height="40">
+    <img src="https://github.com/user-attachments/assets/cbcf33c4-07ba-4f70-82e8-7bcae0416b60" alt="Android Studio" width="40" height="40">
 
 - **Operating Systems:** 
     <img src="https://github.com/user-attachments/assets/1e789b72-6475-40fe-8f77-006acf789668" alt="Windows" width="40" height="40"> 
