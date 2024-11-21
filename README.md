@@ -66,7 +66,7 @@ Developed a web application in collaboration with a partner using **Java**, **My
 ---
 
 ### [Advanced Employee Tracker](https://github.com/IssaPortfolio/Employee-Tracker) (Fall 2023)
-Led a team project to create an HR management program using **Python**, **Turtle**, and **Tkinter**. The application allows clients to manage employee records effectively and includes a website for demonstrating its functionality using **HTML** and **CSS**.
+Led a team of six to create an HR management program using **Python**, **Turtle**, and **Tkinter**. The application allows clients to manage employee records effectively and includes a website for demonstrating its functionality using **HTML** and **CSS**.
 
 ![image](https://github.com/user-attachments/assets/44385780-38db-4200-be5e-4de4994099f3)
 
