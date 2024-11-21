@@ -51,19 +51,23 @@ Check out my portfolio at [https://issaportfolio.github.io/](https://issaportfol
 ## 📚 Projects
 ### [Poll App](https://github.com/IssaPortfolio/Poll-App) (Summer 2024)
 A full-stack web application built with **Node.js**, **Express.js**, **React**, **MySQL**, **Bootstrap**, **HTML**, **CSS**, and **Vite**. Features user authentication and a dashboard for creating and managing polls. Deployed on **AWS EC2** with cloud image storage using **S3**.
+
 ![image](https://github.com/user-attachments/assets/a21d51b1-9c0e-4420-b768-6b712068134f)
 ![image](https://github.com/user-attachments/assets/75a37958-4ff5-48d5-9775-776b8709be4e)
 ![image](https://github.com/user-attachments/assets/5c6e02ea-045c-4df0-bfe9-00505ebc0660)
 
-
+---
 
 ### [Tree-Cutting Management Web Application](https://github.com/DBMS-Project-1/Part-3) (Fall 2023)
 Developed a web application in collaboration with a partner using **Java**, **MySQL**, and **JSP**. The application manages tree-cutting services, enabling client registrations, quote requests, and billing, with interactive dashboards for various user roles.
+
 ![image](https://github.com/user-attachments/assets/55bcbec0-2109-49b3-8a42-0c86d39d3f17)
 
+---
 
 ### [Advanced Employee Tracker](https://github.com/IssaPortfolio/Employee-Tracker) (Fall 2023)
 Led a team project to create an HR management program using **Python**, **Turtle**, and **Tkinter**. The application allows clients to manage employee records effectively and includes a website for demonstrating its functionality using **HTML** and **CSS**.
+
 ![image](https://github.com/user-attachments/assets/44385780-38db-4200-be5e-4de4994099f3)
 
 ---
